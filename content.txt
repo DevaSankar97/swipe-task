@@ -1,1 +1,5 @@
+As a Software Programmer - UI, I was responsible for developing responsive, dynamic user interfaces for web applications using React.js and ensuring seamless integration with Django backend services. I worked closely with the design team to transform wireframes into functional, high-quality interfaces and collaborated with backend developers to implement full-stack solutions. My focus was on optimizing user experiences by maintaining a clean, responsive UI and ensuring smooth communication between the frontend and backend.
+
+
+
 As a Software Development Engineer at JioMart, I was involved in building and maintaining high-performance, customer-facing web applications for one of India's largest eCommerce platforms. I worked primarily with React.js to develop dynamic, reusable UI components and contributed to backend services using Node.js. My focus was on delivering seamless user experiences, improving site performance, and collaborating with design and product teams to roll out new features efficiently.
