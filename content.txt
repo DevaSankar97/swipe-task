@@ -1,3 +1,7 @@
+As a Junior Software Developer, I contributed to the development and enhancement of web applications, focusing on creating responsive and user-friendly interfaces using HTML, CSS, and JavaScript. I collaborated with senior developers and designers to implement web features and ensured that the applications were optimized for performance, accessibility, and cross-browser compatibility. My role also involved learning and improving my skills while actively participating in the development process.
+
+
+
 As a Software Programmer - UI, I was responsible for developing responsive, dynamic user interfaces for web applications using React.js and ensuring seamless integration with Django backend services. I worked closely with the design team to transform wireframes into functional, high-quality interfaces and collaborated with backend developers to implement full-stack solutions. My focus was on optimizing user experiences by maintaining a clean, responsive UI and ensuring smooth communication between the frontend and backend.
 
 
